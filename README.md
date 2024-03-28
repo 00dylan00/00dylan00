@@ -1,7 +1,8 @@
-### Hi there 👋
 ![Codewars](https://github.r2v.ch/codewars?user=00dylan00)
 
 <!--
+### Hi there 👋
+
 **00dylan00/00dylan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
