@@ -1,4 +1,4 @@
-![Codewars](https://github.r2v.ch/codewars?user=00dylan00)
+<!--![Codewars](https://github.r2v.ch/codewars?user=00dylan00) -->
 
 <!--
 ### Hi there 👋
